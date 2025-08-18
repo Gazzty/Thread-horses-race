@@ -5,7 +5,7 @@ import random
 from PIL import Image
 
 # --- Configuración ---
-amount_horses = 8   # probá con 3, 8, 15...
+amount_horses = 5
 WIDTH, HEIGHT = 1000, 600
 FPS = 30
 WHITE = (255, 255, 255)
